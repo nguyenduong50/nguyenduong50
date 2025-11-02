@@ -21,7 +21,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Precision over speed. Quality over noise.
-- 🏙 AI believe in quiet work, clean code, and lasting quality..
+- 🏙 I believe in quiet work, clean code, and lasting quality..
 - ✍ I write technical blogs, You can visit at [quản trị máy tính](https://quantrimaytinh.com/bai-viet).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://nguyenduong50.github.io/personal-cv/) for more details about me.
