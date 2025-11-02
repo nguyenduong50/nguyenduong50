@@ -145,12 +145,12 @@
 <img src="./github.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://www.linkedin.com/in/nguyenduong50/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 <a href="#" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+<img src="./dev_to.png" width=50 height=50 alt="nguyenduong" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
