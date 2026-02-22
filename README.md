@@ -52,11 +52,9 @@
 - 🔄 **[Laravel Clean Architecture Demo](https://github.com/nguyenduong50/laravel-clean-architecture-demo)** - Laravel backend structured with separation of concerns
 - 🕸️ **[Node.js Modular Monolith Architecture](https://github.com/nguyenduong50/nodejs-modular-monolith-architecture)** - Enterprise-style modular monolith built with TypeScript
 
+<!-- ## GitHub Activity
 
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/nguyenduong50)
+![GitHub Contribution Graph](https://ghchart.rshah.org/nguyenduong50) -->
 
 ## What I'm Doing
 
