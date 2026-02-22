@@ -32,40 +32,41 @@ Focused on modular architecture, scalability, and long-term maintainability.
 - **[Authentication & Identity Server](https://github.com/nguyenduong50/authentication-identity-server)** - Independent Identity Service
 
 ## Leagacy projects
+---
 
 
-# Architecture
+### Architecture
 
 - 🦞 **[Node.js SaaS Backend Architecture](https://github.com/nguyenduong50/nodejs-saas-backend-architecture)** - Enterprise-grade SaaS backend system
 - 🚇 **[Node.js Event-Driven Microservices](https://github.com/nguyenduong50/nodejs-event-driven-microservices)** - Distributed backend system demonstrating event-driven architecture
 - 🎚️ **[Backend System Design Notes](https://github.com/nguyenduong50/backend-system-design-notes)** - Collection of backend system design case studies
 
-# Scalability
+### Scalability
 
 - 🚀 **[Node.js Database Performance Lab](https://github.com/nguyenduong50/nodejs-database-performance-lab)** - Experiments and benchmarks for database optimization
 - 🧩 **[Laravel Performance and Queue Lab](https://github.com/nguyenduong50/laravel-performance-and-queue-lab)** - Experiments with Laravel performance optimization and job queues
 
-# Reliability
+### Reliability
 
 - 👉 **[Node.js Concurrency and Reliability Patterns](https://github.com/nguyenduong50/nodejs-concurrency-and-reliability)** - Deep dive into Node.js concurrency model and reliability strategies
 
-# Security
+### Security
 
 - 🚦 **[Node.js Backend Security](https://github.com/nguyenduong50/nodejs-backend-security)** - Security-focused backend implementations and experiments
 
-# DevOps
+### DevOps
 
 - 🧭 **[Node.js Backend Infrastructure](https://github.com/nguyenduong50/nodejs-backend-infrastructure)** - Infrastructure and DevOps setup for backend systems
 
-# Foundations
+### Foundations
 
 - 👻 **[Data Structures in TypeScript](https://github.com/nguyenduong50/data-structures-in-typescript)** - Core data structures implemented from scratch
 
-# Production Experience
+### Production Experience
 
 - 🗃️ **[Backend Production Case Studies](https://github.com/nguyenduong50/backend-production-case-studies)** - Real-world backend engineering case studies (no proprietary code)
 
-## Monolithic Systems
+### Monolithic Systems
 
 - 🔄 **[Laravel Clean Architecture Demo](https://github.com/nguyenduong50/laravel-clean-architecture-demo)** - Laravel backend structured with separation of concerns
 - 🕸️ **[Node.js Modular Monolith Architecture](https://github.com/nguyenduong50/nodejs-modular-monolith-architecture)** - Enterprise-style modular monolith built with TypeScript
