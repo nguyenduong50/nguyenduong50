@@ -93,8 +93,6 @@
 </a>
 </div>
 
----
-
 ## Engineering Mindset
              
 - ✨ Student of life :)
