@@ -14,6 +14,7 @@
 
 > Backend Software Engineer with 4+ years of experience building production-grade systems using Node.js and Laravel.
 Focused on modular architecture, scalability, and long-term maintainability.
+
 🍭 **[davidwilson.com](https://davidwilson.com/)** My Tech Blog - Share technical knowledge
 
 
