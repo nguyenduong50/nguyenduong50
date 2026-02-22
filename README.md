@@ -12,7 +12,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
 
-> Senior Back-end Software Engineer building scalable, resilient backend systems. Strong focus on system design, reliability, and sustainable engineering practices.
+> Backend Software Engineer with 4+ years of experience building production-grade systems using Node.js and Laravel.
+Focused on modular architecture, scalability, and long-term maintainability.
 
 🍭 **[davidwilson.com](https://davidwilson.com/)** My Tech Blog - Share technical knowledge
 
@@ -80,7 +81,7 @@
 <img src="./images/instagram.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/nguyenduong50" target="_blank">
+<a href="https://www.github.com/nguyenduong50" target="_blank">
 <img src="./images/github.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
 </a>
 
@@ -98,5 +99,5 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Precision over speed. Quality over noise.
-- 🏙 I believe in quiet work, clean code, and lasting quality..
+- 🏙 I believe in quiet work, clean code, and lasting quality.
 - ❤ Contributing to Open Source.
