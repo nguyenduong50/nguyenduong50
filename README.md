@@ -25,7 +25,9 @@ Focused on modular architecture, scalability, and long-term maintainability.
 - **[Authentication & Identity Server](https://github.com/nguyenduong50/authentication-identity-server)** - Independent Identity Service
 
 ## Leagacy projects
----
+
+- **[MERN Auth Users](https://github.com/nguyenduong50/mern-users-auth)** - Manager user and Auth with token
+- **[Homestay Chain Management](https://github.com/nguyenduong50/homestay)** - Homestay chain management
 
 
 ### Architecture
