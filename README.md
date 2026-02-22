@@ -98,5 +98,5 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Precision over speed. Quality over noise.
-- 🏙 I believe in quiet work, clean code, and lasting quality..
+- 🏙 I believe in quiet work, clean code, and lasting quality.
 - ❤ Contributing to Open Source.
