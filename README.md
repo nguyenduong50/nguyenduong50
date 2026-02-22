@@ -14,16 +14,8 @@
 
 > Backend Software Engineer with 4+ years of experience building production-grade systems using Node.js and Laravel.
 Focused on modular architecture, scalability, and long-term maintainability.
-
-### Engineering Focus
-
-• Designing scalable RESTful and event-driven systems  
-• Applying clean architecture and domain separation  
-• Performance benchmarking and database optimization  
-• Reliability patterns: retries, circuit breakers, idempotency  
-• Infrastructure as code & containerized deployment
-
 🍭 **[davidwilson.com](https://davidwilson.com/)** My Tech Blog - Share technical knowledge
+
 
 ## Current projects
 
@@ -84,6 +76,23 @@ Focused on modular architecture, scalability, and long-term maintainability.
 - **System Design Growth** – Continuously learning system design and distributed systems
 
 
+### Engineering Focus
+
+• Designing scalable RESTful and event-driven systems  
+• Applying clean architecture and domain separation  
+• Performance benchmarking and database optimization  
+• Reliability patterns: retries, circuit breakers, idempotency  
+• Infrastructure as code & containerized deployment
+
+## Engineering Mindset
+             
+- ✨ Design before coding
+- 🌱 Measure before optimizing
+- 💁‍♂️ Favor observability-first design
+- 🏙 Prefer explicit architecture over implicit magic 
+- ❤ Long-term maintainability over short-term velocity
+
+
 ## Connect With Me
 
 <div align="center">
@@ -111,11 +120,3 @@ Focused on modular architecture, scalability, and long-term maintainability.
 <img src="./images/dev_to.png" width=50 height=50 alt="nguyenduong" style="margin-bottom: 5px;" />
 </a>
 </div>
-
-## Engineering Mindset
-             
-- ✨ Design before coding
-- 🌱 Measure before optimizing
-- 💁‍♂️ Favor observability-first design
-- 🏙 Prefer explicit architecture over implicit magic 
-- ❤ Long-term maintainability over short-term velocity
