@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-📍 **Hanoi ↔ Vietnam** | 🤖 **Back-end software engineer** | 🚀 **Specializing Web Back-end**
+📍 **Hanoi ↔ Vietnam** | 🤖 **Back-end software engineer** | 🚀 **Backend Systems & Infrastructure Engineering**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -14,6 +14,14 @@
 
 > Backend Software Engineer with 4+ years of experience building production-grade systems using Node.js and Laravel.
 Focused on modular architecture, scalability, and long-term maintainability.
+
+### Engineering Focus
+
+• Designing scalable RESTful and event-driven systems  
+• Applying clean architecture and domain separation  
+• Performance benchmarking and database optimization  
+• Reliability patterns: retries, circuit breakers, idempotency  
+• Infrastructure as code & containerized deployment
 
 🍭 **[davidwilson.com](https://davidwilson.com/)** My Tech Blog - Share technical knowledge
 
@@ -73,14 +81,6 @@ Focused on modular architecture, scalability, and long-term maintainability.
 <img src="./images/gmail.png" width=50 height=50 alt="duonghp1991@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="#" target="_blank">
-<img src="./images/twitter.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
-</a>
-
-<a href="#" target="_blank">
-<img src="./images/instagram.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://www.github.com/nguyenduong50" target="_blank">
 <img src="./images/github.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
 </a>
@@ -89,15 +89,23 @@ Focused on modular architecture, scalability, and long-term maintainability.
 <img src="./images/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
+<!-- <a href="#" target="_blank">
+<img src="./images/twitter.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
+</a>
+
+<a href="#" target="_blank">
+<img src="./images/instagram.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
+</a>
+
 <a href="#" target="_blank">
 <img src="./images/dev_to.png" width=50 height=50 alt="nguyenduong" style="margin-bottom: 5px;" />
-</a>
+</a> -->
 </div>
 
 ## Engineering Mindset
              
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Precision over speed. Quality over noise.
-- 🏙 I believe in quiet work, clean code, and lasting quality.
-- ❤ Contributing to Open Source.
+- ✨ Design before coding
+- 🌱 Measure before optimizing
+- 💁‍♂️ Precision over speed. Quality over noise
+- 🏙 Prefer explicit architecture over implicit magic 
+- ❤ Long-term maintainability over short-term velocity
