@@ -76,7 +76,7 @@ Focused on modular architecture, scalability, and long-term maintainability.
 - **System Design Growth** – Continuously learning system design and distributed systems
 
 
-### Engineering Focus
+## Engineering Focus
 
 • Designing scalable RESTful and event-driven systems  
 • Applying clean architecture and domain separation  
