@@ -26,8 +26,9 @@ Focused on modular architecture, scalability, and long-term maintainability.
 
 ## Leagacy projects
 
+- **[Homestays Chain Management](https://github.com/nguyenduong50/homestay)** - Homestays chain management (Fullstack)
+- **[Vessels Management](...)** - Manager vessels, salors (Fullstack)
 - **[MERN Auth Users](https://github.com/nguyenduong50/mern-users-auth)** - Manager user and Auth with token
-- **[Homestay Chain Management](https://github.com/nguyenduong50/homestay)** - Homestay chain management
 
 
 ### Architecture
