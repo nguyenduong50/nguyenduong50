@@ -20,56 +20,56 @@ Focused on modular architecture, scalability, and long-term maintainability.
 
 ## Current projects
 
-- **[SaaS Multi-Tenant Billing Platform](https://github.com/nguyenduong50/saas-multi-tenant-billing-platform)** - SaaS subscription and billing management platform for businesses
-- **[Event-Driven Order Processing System](https://github.com/nguyenduong50/event-driven-order-processing-system)** - Distributed order processing system
-- **[Authentication & Identity Server](https://github.com/nguyenduong50/authentication-identity-server)** - Independent Identity Service
+- **[SaaS Multi-Tenant Billing Platform](https://github.com/davidwilson-dev/saas-multi-tenant-billing-platform)** - SaaS subscription and billing management platform for businesses
+- **[Event-Driven Order Processing System](https://github.com/davidwilson-dev/event-driven-order-processing-system)** - Distributed order processing system
+- **[Authentication & Identity Server](https://github.com/davidwilson-dev/authentication-identity-server)** - Independent Identity Service
 
 ## Leagacy projects
 
-- **[Homestays Chain Management](https://github.com/nguyenduong50/homestay)** - Homestays chain management (Fullstack)
+- **[Homestays Chain Management](https://github.com/davidwilson-dev/homestay)** - Homestays chain management (Fullstack)
 - **[Vessels Management](...)** - Manager vessels, salors (Fullstack)
-- **[MERN Auth Users](https://github.com/nguyenduong50/mern-users-auth)** - Manager user and Auth with token
+- **[MERN Auth Users](https://github.com/davidwilson-dev/mern-auth-users)** - Manager user and Auth with token
 
 
 ### Architecture
 
-- 🦞 **[Node.js SaaS Backend Architecture](https://github.com/nguyenduong50/nodejs-saas-backend-architecture)** - Enterprise-grade SaaS backend system
-- 🚇 **[Node.js Event-Driven Microservices](https://github.com/nguyenduong50/nodejs-event-driven-microservices)** - Distributed backend system demonstrating event-driven architecture
-- 🎚️ **[Backend System Design Notes](https://github.com/nguyenduong50/backend-system-design-notes)** - Collection of backend system design case studies
+- 🦞 **[Node.js SaaS Backend Architecture](https://github.com/davidwilson-dev/nodejs-saas-backend-architecture)** - Enterprise-grade SaaS backend system
+- 🚇 **[Node.js Event-Driven Microservices](https://github.com/davidwilson-dev/nodejs-event-driven-microservices)** - Distributed backend system demonstrating event-driven architecture
+- 🎚️ **[Backend System Design Notes](https://github.com/davidwilson-dev/backend-system-design-notes)** - Collection of backend system design case studies
 
 ### Scalability
 
-- 🚀 **[Node.js Database Performance Lab](https://github.com/nguyenduong50/nodejs-database-performance-lab)** - Experiments and benchmarks for database optimization
-- 🧩 **[Laravel Performance and Queue Lab](https://github.com/nguyenduong50/laravel-performance-and-queue-lab)** - Experiments with Laravel performance optimization and job queues
+- 🚀 **[Node.js Database Performance Lab](https://github.com/davidwilson-dev/nodejs-database-performance-lab)** - Experiments and benchmarks for database optimization
+- 🧩 **[Laravel Performance and Queue Lab](https://github.com/davidwilson-dev/laravel-performance-and-queue-lab)** - Experiments with Laravel performance optimization and job queues
 
 ### Reliability
 
-- 👉 **[Node.js Concurrency and Reliability Patterns](https://github.com/nguyenduong50/nodejs-concurrency-and-reliability)** - Deep dive into Node.js concurrency model and reliability strategies
+- 👉 **[Node.js Concurrency and Reliability Patterns](https://github.com/davidwilson-dev/nodejs-concurrency-and-reliability)** - Deep dive into Node.js concurrency model and reliability strategies
 
 ### Security
 
-- 🚦 **[Node.js Backend Security](https://github.com/nguyenduong50/nodejs-backend-security)** - Security-focused backend implementations and experiments
+- 🚦 **[Node.js Backend Security](https://github.com/davidwilson-dev/nodejs-backend-security)** - Security-focused backend implementations and experiments
 
 ### DevOps
 
-- 🧭 **[Node.js Backend Infrastructure](https://github.com/nguyenduong50/nodejs-backend-infrastructure)** - Infrastructure and DevOps setup for backend systems
+- 🧭 **[Node.js Backend Infrastructure](https://github.com/davidwilson-dev/nodejs-backend-infrastructure)** - Infrastructure and DevOps setup for backend systems
 
 ### Foundations
 
-- 👻 **[Data Structures in TypeScript](https://github.com/nguyenduong50/data-structures-in-typescript)** - Core data structures implemented from scratch
+- 👻 **[Data Structures in TypeScript](https://github.com/davidwilson-dev/data-structures-in-typescript)** - Core data structures implemented from scratch
 
 ### Production Experience
 
-- 🗃️ **[Backend Production Case Studies](https://github.com/nguyenduong50/backend-production-case-studies)** - Real-world backend engineering case studies (no proprietary code)
+- 🗃️ **[Backend Production Case Studies](https://github.com/davidwilson-dev/backend-production-case-studies)** - Real-world backend engineering case studies (no proprietary code)
 
 ### Monolithic Systems
 
-- 🔄 **[Laravel Clean Architecture Demo](https://github.com/nguyenduong50/laravel-clean-architecture-demo)** - Laravel backend structured with separation of concerns
-- 🕸️ **[Node.js Modular Monolith Architecture](https://github.com/nguyenduong50/nodejs-modular-monolith-architecture)** - Enterprise-style modular monolith built with TypeScript
+- 🔄 **[Laravel Clean Architecture Demo](https://github.com/davidwilson-dev/laravel-clean-architecture-demo)** - Laravel backend structured with separation of concerns
+- 🕸️ **[Node.js Modular Monolith Architecture](https://github.com/davidwilson-dev/nodejs-modular-monolith-architecture)** - Enterprise-style modular monolith built with TypeScript
 
 <!-- ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/nguyenduong50) -->
+![GitHub Contribution Graph](https://ghchart.rshah.org/davidwilson-dev) -->
 
 ## What I'm Doing
 
@@ -104,23 +104,23 @@ Focused on modular architecture, scalability, and long-term maintainability.
 <img src="./images/gmail.png" width=50 height=50 alt="duonghp1991@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.github.com/nguyenduong50" target="_blank">
-<img src="./images/github.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
+<a href="https://www.github.com/davidwilson-dev" target="_blank">
+<img src="./images/github.png" width=50 height=50 alt="davidwilson-dev" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/nguyenduong50/" target="_blank">
+<a href="https://www.linkedin.com/in/davidwilson-dev/" target="_blank">
 <img src="./images/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 <a href="#" target="_blank">
-<img src="./images/twitter.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
+<img src="./images/twitter.png" width=50 height=50 alt="davidwilson-dev" style="margin-bottom: 5px;" />
 </a>
 
 <a href="#" target="_blank">
-<img src="./images/instagram.png" width=50 height=50 alt="nguyenduong50" style="margin-bottom: 5px;" />
+<img src="./images/instagram.png" width=50 height=50 alt="davidwilson-dev" style="margin-bottom: 5px;" />
 </a>
 
 <a href="#" target="_blank">
-<img src="./images/dev_to.png" width=50 height=50 alt="nguyenduong" style="margin-bottom: 5px;" />
+<img src="./images/dev_to.png" width=50 height=50 alt="davidwilson" style="margin-bottom: 5px;" />
 </a>
 </div>
