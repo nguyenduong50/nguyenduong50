@@ -26,12 +26,12 @@ Focused on modular architecture, scalability, and long-term maintainability.
 
 ## Leagacy projects
 
-- **[Homestays Chain Management](https://github.com/davidwilson-dev/homestay)** - Homestays chain management (Fullstack)
-- **[Vessels Management](...)** - Manager vessels, salors (Fullstack)
+- **[Hotels Chain Management]()** - Homestays chain management (Fullstack)
+- **[Vessels Management](https://github.com/davidwilson-dev/vessels-management)** - Manager vessels, salors (Fullstack)
 - **[MERN Auth Users](https://github.com/davidwilson-dev/mern-auth-users)** - Manager user and Auth with token
 
 
-### Architecture
+<!-- ### Architecture
 
 - 🦞 **[Node.js SaaS Backend Architecture](https://github.com/davidwilson-dev/nodejs-saas-backend-architecture)** - Enterprise-grade SaaS backend system
 - 🚇 **[Node.js Event-Driven Microservices](https://github.com/davidwilson-dev/nodejs-event-driven-microservices)** - Distributed backend system demonstrating event-driven architecture
@@ -65,7 +65,7 @@ Focused on modular architecture, scalability, and long-term maintainability.
 ### Monolithic Systems
 
 - 🔄 **[Laravel Clean Architecture Demo](https://github.com/davidwilson-dev/laravel-clean-architecture-demo)** - Laravel backend structured with separation of concerns
-- 🕸️ **[Node.js Modular Monolith Architecture](https://github.com/davidwilson-dev/nodejs-modular-monolith-architecture)** - Enterprise-style modular monolith built with TypeScript
+- 🕸️ **[Node.js Modular Monolith Architecture](https://github.com/davidwilson-dev/nodejs-modular-monolith-architecture)** - Enterprise-style modular monolith built with TypeScript -->
 
 <!-- ## GitHub Activity
 
