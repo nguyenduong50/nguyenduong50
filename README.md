@@ -18,7 +18,7 @@ Focused on modular architecture, scalability, and long-term maintainability.
 🍭 **[davidwilson.com](https://davidwilson.com/)** My Tech Blog - Share technical knowledge
 
 
-## Current projects
+## Recent projects
 
 - **[SaaS Multi-Tenant Billing Platform](https://github.com/davidwilson-dev/saas-multi-tenant-billing-platform)** - SaaS subscription and billing management platform for businesses
 - **[Event-Driven Order Processing System](https://github.com/davidwilson-dev/event-driven-order-processing-system)** - Distributed order processing system
